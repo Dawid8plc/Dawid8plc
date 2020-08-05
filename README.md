@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Cuberium 2D
 - ⚡ Fun fact: You are reading this... wow, I know
-
 <br />
 
 ### Languages and Tools:
