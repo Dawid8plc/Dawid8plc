@@ -1,6 +1,6 @@
 ### Hi there, I'm Dawid8 👋
 
-- 🔭 I’m currently working on Cuberium 2D
+- 🔭 I’m currently working on DBomb
 - ⚡ Fun fact: You are reading this... wow, I know
 <br />
 
