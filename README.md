@@ -5,7 +5,6 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio" width="26px" src="https://icons-for-free.com/iconfiles/png/512/2015+microsoft+visualstudio+icon-1320192290698095218.png" />][nothing]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][nothing]
 [<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][nothing]
 
